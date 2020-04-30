@@ -1,1 +1,2 @@
-gestionale per la sicurezza delle aziende
+Progetto Didattico di Basi Di Dati (docente Mauro Conti ).
+Argomento: gestionale intenro per la sicurezza aziendale
